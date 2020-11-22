@@ -1,0 +1,21 @@
+main: in.glennjam.homecoords.Main
+name: HomeCoords
+version: 1.0
+author: TheRealSimShady
+description: A teleportation-free method of saving your home base.
+commands:
+    sethome:
+        description: Sets your current coordinates as "home".
+        usage: /sethome
+        permission: homecoords.basic
+        permission-message: You don't have permission to run this HomeCoords command.
+    home:
+        description: Displays your "home" coordinates.
+        usage: /home
+        permission: homecoords.basic
+        permission-message: You don't have permission to run this HomeCoords command.
+    hca:
+        description: Main administrative command for HomeCoords.
+        usage: /hca
+        permission: homecoords.admin
+        permission-message: You don't have permission to run this HomeCoords command.
