@@ -2,10 +2,7 @@ package in.glennjam.homecoords;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
-
-import java.util.Comparator;
 import java.util.Set;
-
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
