@@ -1,6 +1,6 @@
 main: in.glennjam.homecoords.Main
 name: HomeCoords
-version: 2.0
+version: 2.5
 author: TheRealSimShady
 description: A teleportation-free method of saving your home base.
 commands:
