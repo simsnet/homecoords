@@ -51,7 +51,7 @@ The plugin has 3 commands and permissions.
 * Admin commands limited to `get`, `set`, `reset`, and `reload`
 
 # Support
-To prevent spam, you can find support information in your server console :)
+I will only provide support to servers that are actively running the plugin.
 
 # Disclaimer
 I am a Java novice.  While other developers have heavily structured plugins with independent class files and advanced options, mine runs in one class only.  I am still learning the language, so there may be parts in here that can be heavily simplified.  Nevertheless, the code works.  If there is an issue, I will attempt to resolve it.  If there is a suggestion, I will attempt to add it.  If you do plan to criticize the code, be positive while still suggesting new ideas.  I stopped for a while because I was always criticized with hatred.
