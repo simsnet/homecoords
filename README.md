@@ -1,4 +1,4 @@
-# homecoords
+# HomeCoords
 
 HomeCoords in a Spigot plugin that allows players to save home location(s) without teleporation features.  The plugin is great for servers that want to have the features of the famous `/sethome` and `/home` commands, while still allowing for a vanilla experience.
 
